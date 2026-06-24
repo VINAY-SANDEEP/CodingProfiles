@@ -74,7 +74,7 @@ Campus Coding Tracker </h1>
       </h2>
 
       <p className="text-center text-gray-500 mt-2">
-        Enter your roll number to view coding statistics
+        Niku dula untey enko person dhi check chey
       </p>
 
       <div className="flex flex-col md:flex-row gap-3 justify-center mt-8">
