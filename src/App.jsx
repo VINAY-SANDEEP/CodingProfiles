@@ -74,7 +74,7 @@ Campus Coding Tracker </h1>
       </h2>
 
       <p className="text-center text-gray-500 mt-2">
-        Niku dula untey enko person dhi check chey
+        Niku dula untey enko person dhi check chey lekapotey nedhi check chesko
       </p>
 
       <div className="flex flex-col md:flex-row gap-3 justify-center mt-8">
